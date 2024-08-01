@@ -3,6 +3,6 @@
 
 **XML Motion Graphic Alight Motion**
 
-**1. Gambling Slider**
+**1. Gambling Slider** https://github.com/Rahmadfirdiansyah/Alight-motion/blob/main/XML/Gambling.xml
 
 ![gif](https://github.com/Rahmadfirdiansyah/Alight-motion/blob/main/Gambar/Gambling%20slider.gif)
