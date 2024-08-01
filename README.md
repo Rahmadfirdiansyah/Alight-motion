@@ -3,5 +3,6 @@
 
 **XML Motion Graphic Alight Motion**
 
-**Gambling Slider**
+**1. Gambling Slider**
+
 ![gif](https://github.com/Rahmadfirdiansyah/Alight-motion/blob/main/Gambar/Gambling%20slider.gif)
